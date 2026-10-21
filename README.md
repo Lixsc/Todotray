@@ -41,7 +41,7 @@
    ```shell
    git clone https://github.com/Lixsc/Todotray.git
    ```
-2. Open `IDK.slnx` or `IDK.csproj` in Visual Studio 2022.
+2. Open `IDK.slnx` or `IDK.csproj` in Visual Studio 2026.
 3. Build and run in **Release** or **Debug** mode.
 
 ---
