@@ -1,0 +1,20 @@
+## Visual Studio & Build artifacts
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+.vscode/
+
+## Personal / Local data
+*.log
+todos.json
+
+## Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
